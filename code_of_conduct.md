@@ -37,7 +37,7 @@ Membership is for neurodivergent professionals in technology or those who suppor
   - Channels prefixed with **#interest-** are for discussions around professional development, hobbies, etc.
   - Channels prefixed with **#flavor-** or **#challenge-** focus around advice-seeking and outlets for health-related discussions.
   - Channels prefixed with **#tool-** focus on solutions or strategies to address specific needs.
-  - Channels prefixed with **#intersection-** are private and request-to-join only.
+  - Channels prefixed with **#intersection-** are channels for specific marginalized communities. These are private and request-to-join only.
   - **#introductions** is a place to say hi to new people and for them to get advice on how to navigate our community.
   - **#general** and **#announcements** provide centralized places for announcements and discussion about the community.
   - **#random** is a catch-all
