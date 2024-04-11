@@ -2,18 +2,29 @@
 
 ## ND in Tech Mission Statement
 
-Neurodiversity In Tech (ND in Tech, for short) is an online community dedicated to supporting neurodiverse professionals in the technology industry. Our mission is to enable members to network, navigate their careers, and empower each other while advocating for meaningful social change. ND in Tech serves as a crucial hub for sharing experiences, offering support, and promoting inclusivity within the tech world. We aim to create a welcoming environment where diversity is celebrated and every individual feels valued. It's a space committed to making the tech industry more inclusive and diverse, empowering its members to advocate for themselves and each other.
+Neurodiversity In Tech (ND in Tech, for short) is an online community dedicated to supporting neurodivergent professionals in the technology industry. Our mission is to enable members to network, navigate their careers, and empower each other while advocating for meaningful social change. ND in Tech serves as a crucial hub for sharing experiences, offering support, and promoting inclusivity within the tech world. We aim to create a welcoming environment where diversity is celebrated and every individual feels valued.
 
 ## Scope of This Code of Conduct
 
-This code of conduct applies to interactions of community members in Slack and online or in-person meet-ups. There are situations outside of the control of ND in Tech representatives. We do not make claims that we can enforce this code of conduct in these and other scenarios:
+This code of conduct applies to interactions between members of this community within the spaces that ND in Tech hosts.
+
+### In Scope
+
+- Inside of ND in Tech's Slack
+- At ND in Tech events - virtual or in person
+
+### Out of Scope
+
+There are situations outside of the control of ND in Tech representatives. We make no representation that we can enforce this code of conduct in these scenarios:
 
 - Interactions on other online platforms not administered by ND in Tech representatives.
 - In-person meet-ups not sponsored by ND in Tech.
 
+We will consider *any* harassing behavior discovered by ND in Tech representative as a matter that could affect the health of the community and take appropriate actions as listed in the Grievance Review Process.
+
 ## Community Membership/Inclusion
 
-Membership is for neurodiverse professionals in technology or those who support such individuals in a professional capacity. A medical diagnosis is not needed to join the community.
+Membership is for neurodivergent professionals in technology or those who support such individuals in a professional capacity. A medical diagnosis is not needed to join the community.
 
 ## Expected Behavior
 
@@ -22,10 +33,11 @@ Membership is for neurodiverse professionals in technology or those who support 
 - Support and uplift members of the community.
 - [Assume positive intent](https://www.psychologytoday.com/us/blog/mind-the-manager/202203/when-in-doubt-assume-positive-intent).
 - Keep conversation roughly in line with the subject of the channels in Slack - there are plenty of channels that cover a variety of conversational topics.
-  - Channels prefixed with **community-** focus on topics important to a specific demographic.
-  - Channels prefixed with **interest-** are for discussions around professional development, hobbies, etc.
-  - Channels prefixed with **flavored-** or **challenge-** focus around advice-seeking and outlets for health-related discussions.
-  - **tool-accommodations** focuses on technical solutions or strategies to address specific needs
+  - Channels prefixed with **#community-** focus on topics important to a specific demographic.
+  - Channels prefixed with **#interest-** are for discussions around professional development, hobbies, etc.
+  - Channels prefixed with **#flavor-** or **#challenge-** focus around advice-seeking and outlets for health-related discussions.
+  - Channels prefixed with **#tool-** focus on solutions or strategies to address specific needs.
+  - Channels prefixed with **#intersection-** are private and request-to-join only.
   - **#introductions** is a place to say hi to new people and for them to get advice on how to navigate our community.
   - **#general** and **#announcements** provide centralized places for announcements and discussion about the community.
   - **#random** is a catch-all
@@ -39,7 +51,6 @@ Membership is for neurodiverse professionals in technology or those who support 
 
 - No unwanted flirting or sexual advances.
 - No sexually obscene conversation or observations.
-- No slurs against marginalized groups.
 
 #### Verbal / Written Harassment
 
@@ -49,13 +60,13 @@ Membership is for neurodiverse professionals in technology or those who support 
 
 #### Elitism/Gatekeeping/Exclusion
 
-- We do not require our members to have an official diagnosis. This group focuses on supporting those who are neurodiverse and work in tech which. Our community focus does not include neurotypical people but that is only a matter of focus, not exclusion.
-- There is not a universal "presentation" for any specific neurodiverse sub-group - behavioral, appearance, or philosophic outlooks.
+- We do not require our members to have an official diagnosis. This group focuses on supporting those who are neurodivergent and work in tech which. Our community focus does not include neurotypical people but that is only a matter of focus, not exclusion.
+- There is not a universal "presentation" for any specific neurodivergent sub-group - behavioral, appearance, or philosophic outlooks.
 - We do not tolerate exclusion of people because they aren't {{insert clinical diagnosis here}} enough.
 
-### Racism / Sexism
+### Bigotry
 
-- Just…no.
+No undertones, comments, or slurs that target any marginalized communities, including but not limited to those targeting sex, gender identity, ethnicity, race, age, or disability.
 
 ### Violence
 
@@ -66,7 +77,7 @@ Membership is for neurodiverse professionals in technology or those who support 
 
 ### Intra-community
 
-- Cameras are encouraged during online meetups but not necessary.
+- Webcam use is welcome during online meetups but not necessary.
 - Always ask for permission in Slack prior to connecting with others outside Slack.
 
 ### Outside of Community
@@ -79,8 +90,8 @@ Membership is for neurodiverse professionals in technology or those who support 
 ### Reporting Guidelines
 
 - If someone is in imminent physical harm, contact the appropriate emergency services in their area.
-- Where possible, attempt to resolve the situation one-on-one with the aggressor. In some cases, there may be a misunderstanding.
-- Involve staff where necessary by contacting [nditcommunity@gmail.com](mailto:nditcommunity@gmail.com) or messaging Hayley, Roy, or Jennifer on Slack. Be sure to include:
+- Where possible, attempt to resolve the situation one-on-one with the aggressor. In some cases, there may be a misunderstanding. Representative are glad to help with communication advice in such situations.
+- Involve staff where necessary by contacting [nditcommunity@gmail.com](mailto:nditcommunity@gmail.com) or messaging [Hayley](https://nd-in-tech.slack.com/team/U067LJ5PR8V), [Roy](https://nd-in-tech.slack.com/team/U067TMMH362), or [Jennifer](https://nd-in-tech.slack.com/team/U06924YLB4L) on Slack. Be sure to include:
   - **WHO** the incident happened to and who initiated it
   - **WHAT** happened
   - **WHEN** the incident took place
@@ -102,4 +113,4 @@ This Code of Conduct was inspired heavily by and borrowed from:
 - <https://opensource.guide/code-of-conduct/>
 - <https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md>
 
-Neurodiversity in Tech shares this Code of Conduct under a [Creative Commons BY-SA 4.0 DEED](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+Neurodiversity in Tech shares this [Code of Conduct](https://github.com/nditcommunity/nd-in-tech-coc) under a [Creative Commons BY-SA 4.0 DEED](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
