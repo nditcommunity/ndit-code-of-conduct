@@ -58,15 +58,12 @@ Membership is for neurodivergent professionals in technology or those who suppor
 - No unsolicited advice.
 - No [Schrodinger's Assholes](https://www.urbandictionary.com/define.php?term=Schrodingers%20asshole).
 
-#### Elitism/Gatekeeping/Exclusion
+### Bigotry
 
+- No undertones, comments, or slurs that target any marginalized communities, including but not limited to those targeting sex, gender identity, ethnicity, race, age, or disability.
 - We do not require our members to have an official diagnosis. This group focuses on supporting those who are neurodivergent and work in tech which. Our community focus does not include neurotypical people but that is only a matter of focus, not exclusion.
 - There is not a universal "presentation" for any specific neurodivergent sub-group - behavioral, appearance, or philosophic outlooks.
 - We do not tolerate exclusion of people because they aren't {{insert clinical diagnosis here}} enough.
-
-### Bigotry
-
-No undertones, comments, or slurs that target any marginalized communities, including but not limited to those targeting sex, gender identity, ethnicity, race, age, or disability.
 
 ### Violence
 
