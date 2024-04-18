@@ -32,15 +32,7 @@ Membership is for neurodivergent professionals in technology or those who suppor
 - Treat all members with dignity and respect.
 - Support and uplift members of the community.
 - [Assume positive intent](https://www.psychologytoday.com/us/blog/mind-the-manager/202203/when-in-doubt-assume-positive-intent).
-- Keep conversation roughly in line with the subject of the channels in Slack - there are plenty of channels that cover a variety of conversational topics.
-  - Channels prefixed with **#community-** focus on topics important to a specific demographic.
-  - Channels prefixed with **#interest-** are for discussions around professional development, hobbies, etc.
-  - Channels prefixed with **#flavor-** or **#challenge-** focus around advice-seeking and outlets for health-related discussions.
-  - Channels prefixed with **#tool-** focus on solutions or strategies to address specific needs.
-  - Channels prefixed with **#intersection-** are channels for specific marginalized communities. These are private and request-to-join only.
-  - **#introductions** is a place to say hi to new people and for them to get advice on how to navigate our community.
-  - **#general** and **#announcements** provide centralized places for announcements and discussion about the community.
-  - **#random** is a catch-all
+- Keep conversation roughly in line with the subject of the channels in Slack - there are plenty of channels that cover a variety of conversational topics. A full list of channels is maintained in [this Google Doc](https://docs.google.com/document/d/1onKGnfX7Qz-mZV7OcEPF-lli0HvaW2aAWs0SGP7o1OM/edit#heading=h.s45mwzvl0wfb)
 - Intercede or report any abusive or malicious behavior towards other members. Don't assume that ND in Tech representatives will see it unless they are already actively responding.
 
 ## Unacceptable Behavior
