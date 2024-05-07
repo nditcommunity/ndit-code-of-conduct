@@ -20,7 +20,7 @@ There are situations outside of the control of ND in Tech representatives. We ma
 - Interactions on other online platforms not administered by ND in Tech representatives.
 - In-person meet-ups not sponsored by ND in Tech.
 
-We will consider *any* harassing behavior discovered by ND in Tech representative as a matter that could affect the health of the community and take appropriate actions as listed in the Grievance Review Process.
+We will consider *any* harassing behavior discovered by an ND in Tech representative as a matter that could affect the health of the community and take appropriate actions as listed in the Grievance Review Process.
 
 ## Community Membership/Inclusion
 
@@ -79,8 +79,8 @@ Membership is for neurodivergent professionals in technology or those who suppor
 ### Reporting Guidelines
 
 - If someone is in imminent physical harm, contact the appropriate emergency services in their area.
-- Where possible, attempt to resolve the situation one-on-one with the aggressor. In some cases, there may be a misunderstanding. Representative are glad to help with communication advice in such situations.
-- Involve staff where necessary by contacting [nditcommunity@gmail.com](mailto:nditcommunity@gmail.com) or messaging [Hayley](https://nd-in-tech.slack.com/team/U067LJ5PR8V), [Roy](https://nd-in-tech.slack.com/team/U067TMMH362), or [Jennifer](https://nd-in-tech.slack.com/team/U06924YLB4L) on Slack. Be sure to include:
+- Where possible, attempt to resolve the situation one-on-one with the aggressor. In some cases, there may be a misunderstanding. Representatives are glad to help with communication advice in such situations.
+- Involve staff where necessary by contacting the moderators using the directions in the [Contact Mods](https://docs.google.com/document/d/1onKGnfX7Qz-mZV7OcEPF-lli0HvaW2aAWs0SGP7o1OM/edit#heading=h.pavbahagm55x) section of our Slack Guide.
   - **WHO** the incident happened to and who initiated it
   - **WHAT** happened
   - **WHEN** the incident took place
