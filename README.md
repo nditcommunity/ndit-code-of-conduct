@@ -1,4 +1,4 @@
-# Code of Conduct
+# ND In Tech Code of Conduct
 
 ## ND in Tech Mission Statement
 
